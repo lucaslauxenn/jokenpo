@@ -33,7 +33,6 @@ while continuar == "c":
 
     elif modo == 3:
         print('Modo escolhido: Simular partida')
-        print("-"*20)
         x = random.randrange(1,4)
 
         y = random.randrange(1,4)
